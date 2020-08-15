@@ -52,7 +52,7 @@ p {
 }
 
 .hero {
-  background-image: url('../images/digital-marketing-meeting.jpg');
+  background-image: url("../images/digital-marketing-meeting.jpg");
   height: 140vh;
   margin-bottom: 25px;
   background-size: cover;
@@ -95,7 +95,7 @@ p {
   color: #ffffff;
 }
 
-.benefit-brand {%
+.benefit-brand {
   margin-bottom: 32px;
   color: #ffffff;
 }
